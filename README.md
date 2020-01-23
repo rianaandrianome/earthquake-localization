@@ -10,6 +10,7 @@ Before installation, make sure that you have the following installed on your mah
 * Apache
 * Php
 * Mysql 
+
 An easy way to get around is to install a software such as: 
 * WAMP for windows users
 * LAMP for linux users 
