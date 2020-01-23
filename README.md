@@ -22,3 +22,10 @@ TO install the program, follow the steps below:
 * create a virtual host for the project in your apache host configs (.host file)
 * start your apache server 
 * open your virtual host on your browser 
+
+## Collaborators
+
+This project was built as a collaboration between 
+[Zohary Andrianome](https://zoharyandrianome-portfolio.netlify.com/)
+and
+[Riana Andrianome](https://rianaandrianomeportfolio.netlify.com/)
