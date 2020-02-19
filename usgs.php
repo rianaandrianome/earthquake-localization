@@ -4,9 +4,9 @@
     <h3>Earthquakes based on USGS Rest API</h3>
 
     
-    <fieldset class="row btn-wrapper">
+    <div class="row btn-wrapper">
         <legend>Search</legend>
-        <div>
+        <div class="wrap form-group">
             <button onclick="showLocation()" class="btn btn-info">Near your Location</button>
         </div>  
         <div class="wrap form-group">
@@ -31,7 +31,7 @@
             <button onclick="showRectangle()" class="btn btn-info">Within a zone</button>
         </div>
 
-</fieldset>
+</div>
     <div id="wrapper" class="row">
         
         <div id="map" class="col-lg-8 map"></div>
