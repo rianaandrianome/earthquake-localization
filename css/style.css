@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.navbar {
+    background-color: #5e6267;
+}
+
+.content {
+    padding-top: 100px;
+}
+
+.content h3 , .content h6{
+    text-align: center;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
+
+.btn-wrapper .btn {
+    width: 200px;
+    border-radius: 3px;
+    margin:5px;
+}
+
+.btn-info {
+    background-color: #5e6267;
+    border-color: #5e6267;
+}
+
+.map {
+    width: 100%; 
+    min-height: 500px;
+}
+
+article {
+    display: flex;
+    align-items: center;
+    border-width: 1px 0 1px 0;
+    border-color: #424242;
+    border-style: solid;
+    padding: 10px 0;
+}
+
+article img {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+
+.legend-text {
+    text-align: left;
+    cursor: default;
+
+}
+
+.legend-text p {
+    margin-bottom: 0;
+}
+
+.leaflet-popup {
+    color: black;
+}
+
+.wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px solid #444242;
+    margin: 10px;
+    padding: 5px;
+}
+
+.wrap label {
+    margin-bottom: 0;
+}
+
+.form-control {
+    width: 150px;
+    margin: 5px;
+}
+
+fieldset {
+    background-color: #343434;
+}

@@ -218,6 +218,7 @@ function showRectangle(){
                 ); 
             }// enf for planes 
                 
+            
                var LeafIcon = L.Icon.extend({
             options: {
                 iconSize:     [45, 45],
